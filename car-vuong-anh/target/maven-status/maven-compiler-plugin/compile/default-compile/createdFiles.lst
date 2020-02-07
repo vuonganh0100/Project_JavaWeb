@@ -1,0 +1,4 @@
+com\carvuonganh\NewEntity.class
+com\carvuonganh\entity\NewEntity.class
+com\carvuonganh\config\JPAConfig.class
+com\carvuonganh\controller\HomeController.class
